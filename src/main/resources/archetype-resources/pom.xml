@@ -277,7 +277,7 @@
 		<dependency>
 			<groupId>org.tynamo</groupId>
 			<artifactId>tapestry-model-hibernate</artifactId>
-			<version>${D}{tynamo-version}</version>
+			<version>0.6.0</version>
 		</dependency>
 
 		<dependency>
